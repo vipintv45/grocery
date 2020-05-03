@@ -1,0 +1,84 @@
+{
+    "grocery":[
+        {
+            "slno":"1",
+            "item":"Sugar",
+            "quantity":5,
+            "unit":"kilogram",
+            "department":"fooditems",
+            "description":"sugar"
+        },
+        {
+            "slno":"2",
+            "item":"Rice",
+            "quantity":7,
+            "unit":"kilogram",
+            "department":"fooditems",
+            "description":"fiber rich"
+        },
+        {
+            "slno":"3",
+            "item":"N95 Mask",
+            "quantity":20,
+            "unit":"nos",
+            "department":"health products",
+            "description":"mask"
+        },
+        {
+            "slno":"4",
+            "item":"Ball pen",
+            "quantity":5,
+            "unit":"nos",
+            "department":"stationery",
+            "description":"pen"
+        },
+        {
+            "slno":"5",
+            "item":"Pencil",
+            "quantity":5,
+            "unit":"nos",
+            "department":"stationery",
+            "description":"pencil"
+        },
+        {
+            "slno":"6",
+            "item":"Vegetable kit",
+            "quantity":8,
+            "unit":"nos",
+            "department":"fooditems",
+            "description":"vegetables"
+        },
+        {
+            "slno":"7",
+            "item":"Teapowder",
+            "quantity":1,
+            "unit":"kilogram",
+            "department":"fooditems",
+            "description":"teapowder"
+        },
+        {
+            "slno":"8",
+            "item":"Bathing soap",
+            "quantity":7,
+            "unit":"nos",
+            "department":"soapsanddetergents",
+            "description":"soap"
+        },
+        {
+            "slno":"9",
+            "item":"Washing Powder",
+            "quantity":2,
+            "unit":"kilogram",
+            "department":"soapsanddetergents",
+            "description":"washingpowder"
+        },
+        {
+            "slno":"10",
+            "item":"Chilly Powder",
+            "quantity":3,
+            "unit":"kilogram",
+            "department":"fooditems",
+            "description":"chilly powder"
+        }
+    ]
+}
